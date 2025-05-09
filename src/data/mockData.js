@@ -11,7 +11,7 @@ const mockData = [
         marketCap: '1.86T',
         volume: '43.8B',
         supply: '19.85M',
-        chart: 'public/charts/bitcoin.png',
+        chart: 'src/assets/bitcoin.png',
     },
     {
         id: 2,
@@ -25,7 +25,7 @@ const mockData = [
         marketCap: '217.5B',
         volume: '23.5B',
         supply: '120.7M',
-        chart: 'public/charts/eth.png',
+        chart: 'src/assets/eth.png',
     },
     {
         id: 3,
@@ -39,7 +39,7 @@ const mockData = [
         marketCap: '145.3B',
         volume: '92.2B',
         supply: '145.3B',
-        chart: 'public/charts/tether.png',
+        chart: 'src/assets/tether.png',
     },
     {
         id: 4,
@@ -53,7 +53,7 @@ const mockData = [
         marketCap: '130.0B',
         volume: '5.13B',
         supply: '58.3B',
-        chart: 'public/charts/xrp.png',
+        chart: 'src/assets/xrp.png',
     },
     {
         id: 5,
@@ -67,7 +67,7 @@ const mockData = [
         marketCap: '78.3B',
         volume: '4.88B',
         supply: '517.3M',
-        chart: 'public/charts/bnb.png',
+        chart: 'src/assets/bnb.png',
     },
 ];
 
